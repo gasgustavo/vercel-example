@@ -1,10 +1,10 @@
 {
   "name": "vercel-example",
   "version": "1.0.0",
-  "description": "Vercel example to deploy node.js applications",
+  "description": "Deploy express js to vercel.",
   "main": "index.js",
-  "engines":{
-    "node": "14.x"
+  "engines": {
+    "node" : "14.x"
   },
   "scripts": {
     "start": "node index.js"
