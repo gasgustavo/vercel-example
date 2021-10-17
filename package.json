@@ -1,0 +1,26 @@
+{
+  "name": "vercel-example",
+  "version": "1.0.0",
+  "description": "Vercel example to deploy node.js applications",
+  "main": "index.js",
+  "engines":{
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasgustavo/vercel-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasgustavo/vercel-example/issues"
+  },
+  "homepage": "https://github.com/gasgustavo/vercel-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
